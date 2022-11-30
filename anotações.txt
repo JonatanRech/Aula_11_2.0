@@ -1,0 +1,22 @@
+Git e GitHub
+
+ *Comandos: 
+
+** pull (puxar): fazer dowload dos arquivos do repositório que foram modificados;
+** push (empurrar): fazer o upload para o repositório;
+
+** git clone: faz uma cópia do repositório para a sua IDE(Sublime/VSCode);
+*** clonar branch:  fazer uma ramificação para realizar alterações sem mudar o original;
+
+** git branch: manipular as ramificações;
+*** 'git branch <nome-da-branch>'
+
+** Criar a branch e já enviar ao reptositório ao mesmo tempo
+*** 'git push -u <local-remoto><nome-da-branch>'
+
+** deletar branch:
+*** 'git branch -d'
+
+*** 'git merge <nome-da-branch-com-o-recurso>'
+
+** git status: confere se precisamos pull ou push;
